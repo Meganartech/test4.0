@@ -209,21 +209,7 @@ const App = () => {
             <Route path='Editplan' element={<Editplan />} />
             <Route path='PlanDescription' element={<PlanDescription />} />
             
-            <Route path='setting' element= {<Setting/>} />
-            <Route path='Video_setting' element= {<Video_setting/>} />
-            <Route path='Setting_sidebar' element= {<Setting_sidebar/>} />
-            <Route path='Social_setting' element= {<Social_setting/>} />
-            <Route path='Payment_setting' element= {<Payment_setting/>} />
-            <Route path='Email_setting' element= {<Email_setting/>} />
-            <Route path='Siteurl_setting' element= {<Siteurl_setting/>} />
-            <Route path='Other_setting' element= {<Other_setting/>} />
-            <Route path='Contact_setting' element= {<Contact_setting/>} />
-            <Route path='SEO_setting' element= {<SEO_setting/>} />
-            <Route path='Mobile_setting' element= {<Mobile_setting/>} />
-
-
-
-            
+            {/* https://github.com/Meganartech/test4.0.git */}
             </Route>
             </Route>
           </Route>
